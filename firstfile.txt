@@ -1,14 +1,1 @@
-this is first file 
-
-Some commonly used bas commands :
-
- 1. cd .. --> Go back 1 directory
- 2. cd C: --> Go into C directory
- 3. dir   --> list all directory
- 4. mkdir --> creates new directory or folder
- 5. notepad <filename>.text --> will create a new txt file
- 6. vim <filename>.txt --> Go into cmd editor mode of txt file
- 
- How to come out of vim editor mode -->
- 1.press ESC button
- 2.type ":q" to save file and exit
+Some modication text in first file
